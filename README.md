@@ -1,4 +1,4 @@
-# 🤖 Slack AI Assistant v2
+# 🤖Mini clawd bot
 
 > **An intelligent Slack bot powered by RAG (Retrieval Augmented Generation), Long-Term Memory, and MCP (Model Context Protocol) for GitHub & Notion integration.**
 
